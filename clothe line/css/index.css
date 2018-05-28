@@ -1,0 +1,226 @@
+.topBox{
+	background-color: #333232;
+	height:5vh;
+	width:98.7vw;
+}
+
+.topLogo{
+	height: 8vh;
+	margin-left: 2vw;
+	width: 18vw;
+}
+nav{
+	background-color: white !important;
+	border:none !important;
+}
+.alterPills{
+	padding-top: 2.5vh ;
+	font-size: 18px;
+
+}
+.cartPic{
+	height:4vh;
+}
+.adjustCart{
+	margin-top: -0.6vh !important;
+}
+.nav-pills > li > a{
+	margin-right: 2.0vw;
+}
+.topBox2{
+	background-color: #333232;
+	height:37vh;
+	width:98.7vw;
+	margin-top: 20vh;
+	position: absolute;
+	z-index: auto;
+}
+.imgBox{
+	position: relative;
+	margin-top: 7vh; 
+	margin-left: 4vw;
+	margin-right: 2vw;
+	z-index: 1;
+}
+.rowOneImg{
+	height: 68vh;
+}
+
+.textOnTop{
+	position: absolute;
+	top:25vw;
+	left: 26vw;
+	z-index: 2;
+	
+}
+.textOn{
+	color: white;
+	font-size: 70px;
+}
+.shopBtn{
+	background-color: transparent !important;
+	color: white;
+	font-size: 20px;
+	margin-left: 20vw;
+	padding: 10px;
+}
+.limited{
+	background-color:#333232;
+	margin-top: 8vh;
+	height: 17vh;
+	width: 82.7vw;
+	z-index: 0;
+	position: absolute;
+	margin-left: 8vw;
+	margin-right: 4vw;
+
+}
+.limitedText{
+	position: relative;
+	font-size: 47px;
+	color: white;
+	padding-left: 15vw;
+	padding-right: 5vw;
+	padding-top: 1vh;
+	background-color: #2e2e2e;
+
+}
+.textShop{
+	margin-top:30vh;
+	text-align: center;
+	width:98.7vw; 
+	font-size: 15px;
+	font-weight: lighter;
+}
+.hrLine{
+	position: absolute;
+	width: 82.7vw;
+	height: 2vh;
+	background-color: black;
+	margin-top: 6vh;
+	z-index: auto;
+	margin-left: 8vw;
+}
+.textOnLine{
+	background-color: white;
+	width: 35vw;
+	margin-left: 32vw;
+	position: relative;
+	top:1vw;
+	z-index: 1;
+	font-size: 40px;
+	text-align: center;
+	
+}
+.topBox3{
+	background-color: #725e4c;
+	height:45vh;
+	width:98.7vw;
+	margin-top: 18vh;
+	position: absolute;
+	z-index: auto;
+}
+.imgBox2{
+	position: relative;
+	margin-top: 10vh; 
+	margin-left: 4vw;
+	margin-right: 2vw;
+	z-index: 1;
+}
+.rowTwoImg{
+	height: 60vh;
+}
+.rowTwoImgDiv{
+	width: 21.5vw;
+	height: 30vh
+}
+.textOnTop2{
+	position: absolute;
+	top:80vw;
+	left: 30vw;
+	z-index: 2;
+}
+.logoOnPic{
+	height: 20vh;
+}
+.topBox4{
+	background-color:#333232;
+	height:10vh;
+	width:98.7vw;
+	margin-top: 12vh;
+}
+.textOnLine2{
+	background-color: white;
+	width: 15vw;
+	margin-left: 43vw;
+	position: relative;
+	top:1vw;
+	z-index: 1;
+	font-size: 30px;
+	text-align: center;
+}
+.contain{
+	margin-top: 8vh;
+}
+.rowThreeImg{
+	height: 40vh;
+}
+.sweatsText{
+	margin-top: 2vh;
+	text-align: center;
+	font-size: 23px;
+	margin-left: 2vw;
+}
+.amountText{
+	text-align: center;
+	font-size: 18px;
+	margin-bottom: 10vh;
+	margin-left: 2vw;
+}
+.footer{
+	background-color: #333232;
+	color: white;
+	padding-top:5vh;
+	
+}
+.listOfFooter{
+	list-style: none;
+	padding-bottom: 4vh;
+}
+.mailPic{
+	height: 20px;
+	margin-right: 1vw;
+}
+.emailText{
+
+}
+.subDiv{
+	margin-top: -2vh;
+	background-color: white;
+	color:black;
+	float: right;
+	padding:1vh 1vw;
+	font-weight: bold;
+	font-size: 18px;
+	margin-right: 8vw;
+}
+.hrLine2{
+	width: 15vw;
+	height: 0.1vh;
+	background-color: white;
+}
+.Icons{
+	margin-top: 3vh;
+}
+.footerIcon{
+	height: 6vh;
+	margin-left: 0.5vw;
+}
+.copyRight{
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	background-color: #424141;
+	padding-left: 45vw;
+}
+
+
