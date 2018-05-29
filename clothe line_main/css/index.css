@@ -9,6 +9,15 @@
 	margin-left: 2vw;
 	width: 18vw;
 }
+button:focus{
+	outline: 0;
+}
+a{
+	color: white;
+}
+a:hover{
+	color: black;
+}
 nav{
 	background-color: white !important;
 	border:none !important;
@@ -192,18 +201,22 @@ nav{
 	margin-right: 1vw;
 }
 .emailText{
-
+	border:none;
+	background-color: #333232;
 }
-.subDiv{
-	margin-top: -2vh;
+.emailText:focus{
+	outline: 0;
+}
+.emailText::placeholder{
+	color:white;
+}
+.subButton{
 	background-color: white;
-	color:black;
-	float: right;
-	padding:1vh 1vw;
+	color: black;
 	font-weight: bold;
-	font-size: 18px;
-	margin-right: 8vw;
+	font-size: 15px;
 }
+
 .hrLine2{
 	width: 15vw;
 	height: 0.1vh;
