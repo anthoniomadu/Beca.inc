@@ -1,0 +1,153 @@
+nav{
+	background-color: white !important;
+	border: none !important;
+	font-family: 'Karla', sans-serif;
+}
+a{
+	color: white !important;
+}
+a:hover{
+	color: black !important;
+	text-decoration: none;
+} 
+button{
+	outline: none; 
+}
+.navbar-collapse{
+	border: none !important;
+}
+.topBox{
+	background-color:#4f4f4f;
+	height:5vh;
+	width:95.5vw;
+}
+.topLogo{
+	margin-top: -3vh;
+	height: 20vh;
+	margin-left: 13vw;
+	margin-bottom: 80vh;
+}
+
+.content-nav{
+	border: none;
+	margin-top: 12vh;
+	background-color: #bb3d3d !important;
+	color: white;
+	padding-left: 2vw;
+	height: 8vh;
+	
+}
+.recImg{
+	display: none;
+}
+.content-nav > li{
+	font-size: 16px;
+}
+
+.nav-hr{
+	height: 4vh; 
+	width: 0.4vw;
+	background-color: white; 
+	margin-top: 1.5vh;
+}
+.homeIconImg{
+	height: 4vh;
+	margin-top: 0vh;
+}
+.linkActive > a{
+	color: black !important;
+	margin-top: 1vh;
+	padding-top: 1vh !important;
+	padding-bottom: 1vh !important;
+	background-color: white !important;
+}
+
+
+
+
+
+
+.serviceDiv{
+	margin-top: 18vh;
+	background-color: #333232;
+	width: 40vw;
+	color: white;
+	font-family: 'Karla', sans-serif;
+	font-size: 18px;
+	padding-left:  3vw;
+	padding-right: 3vw;
+}
+.centerImg{
+	background-color: #333232;
+	height: 34vh;
+	width: 95.5vw;
+
+}
+.servImg{
+	width: 95.5vw;
+	height: 31vh;
+
+
+}
+.backrowDiv{
+	display: hidden;
+}
+.rowDiv{
+	margin-top: 10vh;
+	font-family: 'Karla', sans-serif;
+}
+
+.EachRow{
+	margin-bottom: 10vh;
+}
+.darkHead{
+	background-color: #333232;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	margin-left: 5vh;
+	margin-right: 5vh;
+
+}
+.lightBody{
+	background-color: #A9A9A9;
+	color: white;
+	height: 44vh;
+	font-size: 15px;
+	text-indent: 2vw;
+	padding-top: 1vh;
+	margin-left: 5vh;
+	margin-right: 5vh;
+	text-align: center;
+}
+.Footer{
+	margin-top: 10vh;
+	background-color:  #333232;
+	color: white; 
+}
+.smallFooter{
+	background-color:#bb3d3d ;
+	height: 3vh;
+}
+.listOfFooter{
+	margin-top: 3vh;
+	list-style: none;
+	margin-bottom: 2vh;
+	font-size: 13px;
+}
+.footerIcon{
+	height: 5vh;
+	padding-right: 1vw;
+}
+.IconDiv{
+	padding-left: 8vw;
+	padding-top: 1.5vh;
+}
+.copyRight{
+	background-color: #424141;
+	text-align: center;
+	font-size: 11px;
+}
+
