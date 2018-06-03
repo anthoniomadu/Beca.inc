@@ -1,0 +1,182 @@
+nav{
+	background-color: white !important;
+	border: none !important;
+	font-family: 'Karla', sans-serif;
+	margin-bottom: 24vh !important;
+}
+a{
+	color: white !important;
+}
+a:hover{
+	color: black !important;
+	text-decoration: none;
+} 
+button{
+	outline: none;
+}
+.topLogo{
+	margin-top: -4vh;
+	height: 35vh;
+}
+.topBox{
+	background-color:#4f4f4f;
+	height:5vh;
+	width:98.7vw;
+}
+.content-nav{
+	background-color: #bb3d3d !important;
+	color: white;
+	width: 50vw;
+	margin-right: 20vw;
+	margin-top: -7.5vh;
+	padding-left: 2vw;
+	
+}
+.recImg{
+	margin-top:-8.5vh;
+	height: 14vh;
+	float: right;
+	margin-right: -1vw;
+}
+.content-nav > li{
+	padding-right: 1.8vw !important;
+	font-size: 20px;
+}
+
+.nav-hr{
+	height: 5vh; 
+	width: 0.09vw;
+	background-color: white; 
+	margin-top: 1.5vh;
+}
+.homeIconImg{
+	height: 5vh;
+	margin-top: -1vh;
+}
+.linkActive > a{
+	color: black !important;
+	margin-top: 1.5vh;
+	padding-top: 1vh !important;
+	padding-bottom: 1vh !important;
+	background-color: white !important;
+	padding-left: 3vw !important;
+	padding-right: 3vw !important;
+}
+
+
+
+
+
+
+.contactDiv{
+	margin-top: 20vh;
+	background-color: #333232;
+	width: 25vw;
+	color: white;
+	font-family: 'Karla', sans-serif;
+	font-size: 30px;
+	padding-left:  5vw;
+	padding-right: 5vw;
+}
+.centerImg{
+	background-color: #333232;
+	height: 118vh;
+	width: 98.7vw;
+
+}
+.conImg{
+	width: 98.7vw;
+	height: 115vh;
+}
+.backrowDiv{
+	margin-top: 15vh;
+	background-color: #bb3d3d ;
+	height: 10vw;
+	width: 98.7vw;
+	position: relative;
+	z-index: auto;
+
+}
+.imgHolder{
+	margin-top: 10vh;
+	position: relative;
+	z-index: auto
+	height:10vh;
+	width: 98.7vw;
+}
+.contactImg{
+	width: 98.5vw;
+}
+.rowDiv{
+	z-index: 1;
+	position: absolute;
+	top: 212vh;
+	left: 4vw;
+	font-family: 'Karla', sans-serif;
+}
+.rowimg1{
+	height: 28vh;
+}
+.rowimg2{
+	margin-right: 3vw;
+	float: right;
+	height: 28vh;
+}
+.textOn1{
+	margin-left: 1vw;
+	margin-top: 2vh;
+	background-color:#333232;
+	opacity: 0.7; 
+	color: white;
+	font-size: 28px;
+	text-align: center;
+	height: 7vh;
+	border-radius: 5px;
+	width: 12vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.textOn2{
+	margin-right: 3vw;
+	float: right;
+	margin-left: 1vw;
+	margin-top: 2vh;
+	background-color:#333232;
+	opacity: 0.7; 
+	color: white;
+	font-size: 28px;
+	text-align: center;
+	height: 7vh;
+	border-radius: 5px;
+	width: 12vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.Footer{
+	margin-top: 0vh;
+	background-color:  #333232;
+	color: white;
+}
+.smallFooter{
+	background-color:#bb3d3d ;
+	height: 3vh;
+}
+.listOfFooter{
+	margin-top: 5vh;
+	list-style: none;
+	margin-bottom: 5vh;
+}
+.footerIcon{
+	height: 10vh;
+	padding-right: 2vw;
+}
+.IconDiv{
+	padding-left: 18vw;
+	padding-top: 1.5vh;
+}
+.copyRight{
+	background-color: #424141;
+	text-align: center;
+}
+
+
