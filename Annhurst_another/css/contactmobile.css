@@ -1,0 +1,187 @@
+nav{
+	background-color: white !important;
+	border: none !important;
+	font-family: 'Karla', sans-serif;
+}
+a{
+	color: white !important;
+}
+a:hover{
+	color: black !important;
+	text-decoration: none;
+} 
+button{
+	outline: none; 
+}
+.navbar-collapse{
+	border: none !important;
+}
+.topBox{
+	background-color:#4f4f4f;
+	height:5vh;
+	width:100vw;
+}
+.topLogo{
+	margin-top: -3vh;
+	height: 20vh;
+	margin-left: 10vw;
+	margin-bottom: 80vh;
+}
+.content-nav{
+	border: none;
+	margin-top: 12vh;
+	background-color: #bb3d3d !important;
+	color: white;
+	padding-left: 2vw;
+	height: 8vh;
+	
+}
+.recImg{
+	display: none;
+}
+.content-nav > li{
+	font-size: 16px;
+}
+
+.nav-hr{
+	height: 4vh; 
+	width: 0.4vw;
+	background-color: white; 
+	margin-top: 1.5vh;
+}
+.homeIconImg{
+	height: 4vh;
+	margin-top: 0vh;
+}
+.linkActive > a{
+	color: black !important;
+	margin-top: 1vh;
+	padding-top: 1vh !important;
+	padding-bottom: 1vh !important;
+	background-color: white !important;
+}
+
+
+
+
+
+.contactDiv{
+	margin-top: 18vh;
+	background-color: #333232;
+	width: 40vw;
+	color: white;
+	font-family: 'Karla', sans-serif;
+	font-size: 18px;
+	padding-left:  4vw;
+	padding-right: 4vw;
+}
+.centerImg{
+	background-color: #333232;
+	height: 34vh;
+	width: 100vw;
+
+}
+.conImg{
+	width: 100vw;
+	height: 31vh;
+
+
+}
+.backrowDiv{
+	margin-top: 5vh;
+	background-color: #bb3d3d ;
+	height: 10vw;
+	width: 100vw;
+	position: relative;
+	z-index: auto;
+
+}
+.imgHolder{
+	margin-top: 12vh;
+	position: relative;
+	z-index: auto
+	height:10vw;
+	width: 100vw;
+
+
+}
+.contactImg{
+	width: 95vw;
+	height: 40vw;
+
+
+}
+.rowDiv{
+	z-index: 1;
+	position: relative;
+	top: -30vh;
+	left: 5vw;
+	width: 85vw;
+	font-family: 'Karla', sans-serif;
+
+}
+.rowimg1{
+	height: 13vh;
+}
+.rowimg2{
+	float: right;
+	height: 13vh;
+}
+.textOn1{
+	margin-top: 1vh;
+	background-color:#333232;
+	opacity: 0.7; 
+	color: white;
+	font-size: 13px;
+	text-align: center;
+	height: 5vh;
+	border-radius: 15px;
+	width: 22vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	margin-left: 2vw;
+}
+.textOn2{
+	margin-top: 1vh;
+	background-color:#333232;
+	opacity: 0.7; 
+	color: white;
+	font-size: 13px;
+	text-align: center;
+	height: 5vh;
+	border-radius: 15px;
+	width: 22vw;
+	float: right;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	margin-right: 1vw;
+}
+.Footer{
+	margin-top: -21vh;
+	background-color:  #333232;
+	color: white;
+}
+.smallFooter{
+	background-color:#bb3d3d ;
+	height: 3vh;
+}
+.listOfFooter{
+	margin-top: 3vh;
+	list-style: none;
+	margin-bottom: 2vh;
+	font-size: 13px;
+}
+.footerIcon{
+	height: 5vh;
+	padding-right: 1vw;
+}
+.IconDiv{
+	padding-left: 8vw;
+	padding-top: 1.5vh;
+}
+.copyRight{
+	background-color: #424141;
+	text-align: center;
+	font-size: 8px;
+}
+
