@@ -17,6 +17,7 @@ button{
 .topLogo{
 	margin-top: -3vh;
 	height: 25vh;
+	margin-left: -3vw;
 }
 .topBox{
 	background-color:#4f4f4f;
@@ -26,14 +27,14 @@ button{
 .content-nav{
 	background-color: #bb3d3d !important;
 	color: white;
-	width: 54vw;
-	margin-right: 17.3vw;
-	margin-top: -7.7vh;
+	width: 57vw;
+	margin-right: 17vw;
+	margin-top: -7.5vh;
 	padding-left: 2vw;
 	
 }
 .recImg{
-	margin-top:-8.7vh;
+	margin-top:-8.4vh;
 	height: 11vh;
 	float: right;
 	margin-right: -1.9vw;
@@ -112,7 +113,6 @@ button{
 	color: white;
 	height: 44vh;
 	font-size: 15px;
-	text-indent: 2vw;
 	padding-top: 1vh;
 	margin-left: 25vh;
 	margin-right: 20vh;

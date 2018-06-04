@@ -17,6 +17,8 @@ button{
 .topLogo{
 	margin-top: -3vh;
 	height: 25vh;
+	margin-left: -3vw;
+	
 }
 .topBox{
 	background-color:#4f4f4f;
@@ -26,14 +28,14 @@ button{
 .content-nav{
 	background-color: #bb3d3d !important;
 	color: white;
-	width: 54vw;
-	margin-right: 17.3vw;
-	margin-top: -7.7vh;
+	width: 57vw;
+	margin-right: 17vw;
+	margin-top: -7.5vh;
 	padding-left: 2vw;
 	
 }
 .recImg{
-	margin-top:-8.7vh;
+	margin-top:-8.4vh;
 	height: 11vh;
 	float: right;
 	margin-right: -1.9vw;
@@ -69,13 +71,13 @@ button{
 
 .centerImg{
 	background-color: #bb3d3d ;
-	height: 82vh;
+	height: 70vh;
 	width: 97.7vw;
 
 }
 .homeImg{
 	width: 97.7vw;
-	height: 82vh;
+	height: 68vh;
 
 }
 .backrowDiv{
@@ -104,7 +106,6 @@ display: none;
 	color: white;
 	height: 29vh;
 	font-size: 20px;
-	text-indent: 1vw;
 	padding-top: 1vh;
 	text-align: center;
 }

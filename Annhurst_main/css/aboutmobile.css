@@ -24,7 +24,7 @@ button{
 .topLogo{
 	margin-top: -3vh;
 	height: 20vh;
-	margin-left: 13vw;
+	margin-left: 10vw;
 	margin-bottom: 80vh;
 }
 
@@ -158,6 +158,6 @@ button{
 .copyRight{
 	background-color: #424141;
 	text-align: center;
-	font-size: 11px;
+	font-size: 8px;
 }
 

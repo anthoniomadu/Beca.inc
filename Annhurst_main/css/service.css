@@ -17,23 +17,25 @@ button{
 .topLogo{
 	margin-top: -4vh;
 	height: 35vh;
+	margin-left: -3vw;
 }
 .topBox{
 	background-color:#4f4f4f;
 	height:5vh;
 	width:98.7vw;
+
 }
 .content-nav{
 	background-color: #bb3d3d !important;
 	color: white;
 	width: 50vw;
 	margin-right: 20vw;
-	margin-top: -7.5vh;
+	margin-top: -7.3vh;
 	padding-left: 2vw;
 	
 }
 .recImg{
-	margin-top:-8.5vh;
+	margin-top:-8.3vh;
 	height: 14vh;
 	float: right;
 	margin-right: -1vw;
@@ -80,13 +82,13 @@ button{
 }
 .centerImg{
 	background-color: #333232;
-	height: 118vh;
+	height: 82vh;
 	width: 98.7vw;
 
 }
 .servImg{
 	width: 98.7vw;
-	height: 115vh;
+	height: 80vh;
 }
 .backrowDiv{
 	margin-top: 35vh;
@@ -100,7 +102,7 @@ button{
 .rowDiv{
 	z-index: 1;
 	position: absolute;
-	top: 192vh;
+	top: 155vh;
 	left: 7vw;
 	font-family: 'Karla', sans-serif;
 

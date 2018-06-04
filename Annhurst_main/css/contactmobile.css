@@ -24,7 +24,7 @@ button{
 .topLogo{
 	margin-top: -3vh;
 	height: 20vh;
-	margin-left: 13vw;
+	margin-left: 10vw;
 	margin-bottom: 80vh;
 }
 .content-nav{
@@ -88,7 +88,7 @@ button{
 
 }
 .backrowDiv{
-	margin-top: 8vh;
+	margin-top: 5vh;
 	background-color: #bb3d3d ;
 	height: 10vw;
 	width: 95.5vw;
@@ -121,11 +121,11 @@ button{
 
 }
 .rowimg1{
-	height: 15vh;
+	height: 13vh;
 }
 .rowimg2{
 	float: right;
-	height: 15vh;
+	height: 13vh;
 }
 .textOn1{
 	margin-top: 1vh;
@@ -182,6 +182,6 @@ button{
 .copyRight{
 	background-color: #424141;
 	text-align: center;
-	font-size: 11px;
+	font-size: 8px;
 }
 
