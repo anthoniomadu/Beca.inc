@@ -18,19 +18,19 @@ button{
 }
 .topBox{
 	background-color:#4f4f4f;
-	height:5vh;
+	height:3vh;
 	width:100vw;
 }
 .topLogo{
 	margin-top: -3vh;
-	height: 20vh;
-	margin-left: 10vw;
-	margin-bottom: 80vh;
+	height: 15vh;
+	margin-left: 17vw;
+
 }
 
 .content-nav{
 	border: none;
-	margin-top: 12vh;
+	margin-top: 8vh;
 	background-color: #bb3d3d !important;
 	color: white;
 	padding-left: 2vw;
@@ -52,7 +52,7 @@ button{
 }
 .homeIconImg{
 	height: 4vh;
-	margin-top: 0vh;
+	margin-top: -0.3vh;
 }
 .linkActive > a{
 	color: black !important;
@@ -69,46 +69,48 @@ button{
 
 
 .centerImg{
-	margin-top: 15vh;
+	margin-top: 8vh;
 	background-color: #bb3d3d ;
-	height: 34vh;
+	height: 29vh;
 	width: 100vw;
 
 }
 .homeImg{
+	height: 28vh;
 	width: 100vw;
 }
 .backrowDiv{
 	display: hidden;
 }
 .rowDiv{
-	margin-top: 5vh;
+	margin-top: 3vh;
 	font-family: 'Karla', sans-serif;
 }
 
 .EachRow{
-	margin-bottom: 5vh;
+	margin-bottom: 3vh;
 }
 .darkHead{
 	background-color: #333232;
 	color: white;
-	font-size: 18px;
+	font-size: 13px;
 	text-align: center;
 	padding-top: 1vh;
 	padding-bottom: 1vh;
-	margin-left: 5vh;
-	margin-right: 5vh;
+	margin-left: 6vh;
+	margin-right: 6vh;
 
 }
 .lightBody{
 	background-color: #A9A9A9;
 	color: white;
-	height: 27vh;
-	font-size: 15px;
+	height: 20vh;
+	font-size: 12px;
 	text-indent: 2vw;
 	padding-top: 1vh;
-	margin-left: 5vh;
-	margin-right: 5vh;
+	margin-left: 6vh;
+	margin-right: 6vh;
+	text-align: center;
 }
 .Footer{
 	margin-top: 1vh;
@@ -117,10 +119,10 @@ button{
 }
 .smallFooter{
 	background-color:#bb3d3d ;
-	height: 3vh;
+	height: 2vh;
 }
 .listOfFooter{
-	margin-top: 3vh;
+	margin-top: 2vh;
 	list-style: none;
 	margin-bottom: 3vh;
 	font-size: 10px;
@@ -134,7 +136,7 @@ button{
 	padding-right: 2vw;
 }
 .footerLogo{
-	height: 12vh;
+	height: 10vh;
 	margin-top: -6vh;
 	float: right;
 }

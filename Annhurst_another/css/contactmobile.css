@@ -18,18 +18,18 @@ button{
 }
 .topBox{
 	background-color:#4f4f4f;
-	height:5vh;
+	height:3vh;
 	width:100vw;
 }
 .topLogo{
 	margin-top: -3vh;
-	height: 20vh;
-	margin-left: 10vw;
-	margin-bottom: 80vh;
+	height: 15vh;
+	margin-left: 17vw;
 }
+
 .content-nav{
 	border: none;
-	margin-top: 12vh;
+	margin-top: 8vh;
 	background-color: #bb3d3d !important;
 	color: white;
 	padding-left: 2vw;
@@ -51,7 +51,7 @@ button{
 }
 .homeIconImg{
 	height: 4vh;
-	margin-top: 0vh;
+	margin-top: -0.3vh;
 }
 .linkActive > a{
 	color: black !important;
@@ -65,67 +65,69 @@ button{
 
 
 
+
+
 .contactDiv{
-	margin-top: 18vh;
+	margin-top: 10vh;
 	background-color: #333232;
 	width: 40vw;
 	color: white;
 	font-family: 'Karla', sans-serif;
-	font-size: 18px;
-	padding-left:  4vw;
-	padding-right: 4vw;
+	font-size: 15px;
+	padding-left:  6vw;
+	padding-right: 6vw;
 }
 .centerImg{
 	background-color: #333232;
-	height: 34vh;
+	height: 29vh;
 	width: 100vw;
 
 }
 .conImg{
 	width: 100vw;
-	height: 31vh;
+	height: 28vh;
 
 
 }
 .backrowDiv{
-	margin-top: 5vh;
+	margin-top: 3vh;
 	background-color: #bb3d3d ;
-	height: 10vw;
+	height: 5vw;
 	width: 100vw;
 	position: relative;
 	z-index: auto;
 
 }
 .imgHolder{
-	margin-top: 12vh;
+	margin-top: 8vh;
 	position: relative;
 	z-index: auto
 	height:10vw;
 	width: 100vw;
 
-
 }
 .contactImg{
-	width: 95vw;
+	width: 100vw;
 	height: 40vw;
-
 
 }
 .rowDiv{
 	z-index: 1;
 	position: relative;
-	top: -30vh;
+	top: -28vh;
 	left: 5vw;
 	width: 85vw;
 	font-family: 'Karla', sans-serif;
 
 }
 .rowimg1{
-	height: 13vh;
+	height: 11vh;
+	margin-left:1vw; 
 }
 .rowimg2{
 	float: right;
-	height: 13vh;
+	height: 11vh;
+	margin-right: 3vw;
 }
 .textOn1{
 	margin-top: 1vh;
@@ -139,7 +141,7 @@ button{
 	width: 22vw;
 	padding-top: 1vh;
 	padding-bottom: 1vh;
-	margin-left: 2vw;
+	margin-left: 1vw;
 }
 .textOn2{
 	margin-top: 1vh;
@@ -157,21 +159,22 @@ button{
 	margin-right: 1vw;
 }
 .Footer{
-	margin-top: -21vh;
+	margin-top: -16vh;
 	background-color:  #333232;
-	color: white;
+	color: white; 
 }
 .smallFooter{
 	background-color:#bb3d3d ;
-	height: 3vh;
+	height: 2vh;
 }
 .listOfFooter{
-	margin-top: 3vh;
+	margin-top: 2vh;
 	list-style: none;
 	margin-bottom: 2vh;
 	font-size: 13px;
 }
 .footerIcon{
+	margin-top: -1vh;
 	height: 5vh;
 	padding-right: 1vw;
 }
