@@ -2,7 +2,7 @@ nav{
 	background-color: white !important;
 	border: none !important;
 	font-family: 'Karla', sans-serif;
-	margin-bottom: 15vh !important;
+	margin-bottom: 12vh !important;
 }
 a{
 	color: white !important;
@@ -15,9 +15,9 @@ button{
 	outline: none;
 }
 .topLogo{
-	margin-top: -4vh;
-	height: 25vh;
-	margin-left: 2vw;
+	margin-top: -3vh;
+	height: 20vh;
+	margin-left: 0vw;
 }
 .topBox{
 	background-color:#4f4f4f;
@@ -27,8 +27,8 @@ button{
 .content-nav{
 	background-color: #bb3d3d !important;
 	color: white;
-	width: 52vw;
-	margin-right: 16vw;
+	width: 65vw;
+	margin-right: 10vw;
 	padding-left: 2vw;
 	height: 6vh;
 
@@ -42,19 +42,19 @@ button{
 }
 .content-nav > li{
 	padding-right: 1.8vw !important;
-	font-size: 18px;
-	margin-top: -1vh;
+	font-size: 16px;
+	margin-top: -0.5vh;
 }
 
 .nav-hr{
 	height: 5vh; 
 	width: 0.09vw;
 	background-color: white; 
-	margin-top: 1.5vh;
+	margin-top: 1vh;
 }
 .homeIconImg{
-	height: 5vh;
-	margin-top: -0.7vh;
+	height: 3vh;
+	margin-top: -0.5vh;
 }
 .linkActive > a{
 	color: black !important;
@@ -73,8 +73,10 @@ button{
 
 
 
+
+
 .contactDiv{
-	margin-top: 15vh;
+	margin-top: 1vh;
 	background-color: #333232;
 	width: 25vw;
 	color: white;
@@ -85,13 +87,13 @@ button{
 }
 .centerImg{
 	background-color: #333232;
-	height: 76vh;
+	height: 72vh;
 	width: 98.7vw;
 
 }
 .conImg{
 	width: 98.7vw;
-	height: 74vh;
+	height: 70vh;
 }
 .backrowDiv{
 	margin-top: 5vh;
@@ -115,7 +117,7 @@ button{
 .rowDiv{
 	z-index: 1;
 	position: absolute;
-	top: 133vh;
+	top: 128vh;
 	left: 4vw;
 	font-family: 'Karla', sans-serif;
 }

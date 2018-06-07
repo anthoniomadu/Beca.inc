@@ -2,7 +2,7 @@ nav{
 	background-color: white !important;
 	border: none !important;
 	font-family: 'Karla', sans-serif;
-	margin-bottom: 15vh !important;
+	margin-bottom: 10vh !important;
 }
 a{
 	color: white !important;
@@ -15,9 +15,9 @@ button{
 	outline: none;
 }
 .topLogo{
-	margin-top: -4vh;
-	height: 25vh;
-	margin-left: 2vw;
+	margin-top: -3vh;
+	height: 20vh;
+	margin-left: 0vw;
 }
 .topBox{
 	background-color:#4f4f4f;
@@ -27,8 +27,8 @@ button{
 .content-nav{
 	background-color: #bb3d3d !important;
 	color: white;
-	width: 52vw;
-	margin-right: 16vw;
+	width: 65vw;
+	margin-right: 10vw;
 	padding-left: 2vw;
 	height: 6vh;
 
@@ -42,19 +42,19 @@ button{
 }
 .content-nav > li{
 	padding-right: 1.8vw !important;
-	font-size: 18px;
-	margin-top: -1vh;
+	font-size: 16px;
+	margin-top: -0.5vh;
 }
 
 .nav-hr{
 	height: 5vh; 
 	width: 0.09vw;
 	background-color: white; 
-	margin-top: 1.5vh;
+	margin-top: 1vh;
 }
 .homeIconImg{
-	height: 5vh;
-	margin-top: -0.7vh;
+	height: 3vh;
+	margin-top: -0.5vh;
 }
 .linkActive > a{
 	color: black !important;
@@ -72,16 +72,16 @@ button{
 
 .centerImg{
 	background-color: #bb3d3d ;
-	height: 74vh;
+	height: 76vh;
 	width: 98.7vw;
 
 }
 .homeImg{
 	width: 98.7vw;
-	height: 72vh
+	height: 74vh
 }
 .backrowDiv{
-	margin-top: 20vh;
+	margin-top: 18vh;
 	background-color: #bb3d3d ;
 	height: 10vw;
 	width: 98.7vw;
@@ -92,7 +92,7 @@ button{
 .rowDiv{
 	z-index: 1;
 	position: absolute;
-	top: 115vh;
+	top: 108vh;
 	left: 7vw;
 	font-family: 'Karla', sans-serif;
 
@@ -110,13 +110,13 @@ button{
 	background-color: #A9A9A9;
 	color: white;
 	height: 29vh;
-	font-size: 20px;
+	font-size: 19px;
 	text-indent: 1vw;
 	padding-top: 1vh;
 	text-align: center;
 }
 .Footer{
-	margin-top: 25vh;
+	margin-top: 20vh;
 	background-color:  #333232;
 	color: white;
 }
@@ -125,7 +125,7 @@ button{
 	height: 3vh;
 }
 .listOfFooter{
-	margin-top: 5vh;
+	margin-top: 3vh;
 	list-style: none;
 	margin-bottom: 5vh;
 }
@@ -137,7 +137,7 @@ button{
 	padding-right: 2vw;
 }
 .footerLogo{
-	height: 30vh;
+	height: 25vh;
 	margin-top: 1vh;
 }
 .copyRight{
