@@ -27,7 +27,7 @@ button{
 .content-nav{
 	background-color: #bb3d3d !important;
 	color: white;
-	margin-right: -2.1vw;
+	margin-right: -1.9vw;
 	width: 50vw;
 	padding-left: 0vw;
 	height: 6vh;
@@ -79,13 +79,13 @@ button{
 }
 .centerImg{
 	background-color: #333232;
-	height: 72vh;
+	height: 70vh;
 	width: 98.7vw;
 
 }
 .servImg{
 	width: 98.7vw;
-	height: 70vh;
+	height: 68vh;
 }
 .rowDiv{
 	margin-top: -18vh;
@@ -132,7 +132,7 @@ button{
 	padding-right: 1vw;
 }
 .IconDiv{
-	padding-left: 28vw;
+	padding-left: 23vw;
 	padding-top: 1.5vh;
 }
 .copyRight{

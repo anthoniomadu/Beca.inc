@@ -27,7 +27,7 @@ button{
 .content-nav{
 	background-color: #bb3d3d !important;
 	color: white;
-	margin-right: -2.1vw;
+	margin-right: -1.9vw;
 	width: 50vw;
 	padding-left: 0vw;
 	height: 6vh;
@@ -77,7 +77,7 @@ button{
 	height: 74vh
 }
 .rowDiv{
-	margin-left: 2vw;
+	margin-left: 1vw;
 	margin-top: -15vh;
 	font-family: 'Karla', sans-serif;
 
@@ -125,7 +125,7 @@ button{
 }
 .footerIcon{
 	height: 8vh;
-	padding-right: 2vw;
+	padding-right: 1vw;
 }
 .footerLogo{
 	height: 25vh;

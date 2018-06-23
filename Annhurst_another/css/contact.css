@@ -27,7 +27,7 @@ button{
 .content-nav{
 	background-color: #bb3d3d !important;
 	color: white;
-	margin-right: -2.1vw;
+	margin-right: -1.9vw;
 	width: 50vw;
 	padding-left: 0vw;
 	height: 6vh;
@@ -82,13 +82,13 @@ button{
 }
 .centerImg{
 	background-color: #333232;
-	height: 72vh;
+	height: 70vh;
 	width: 98.7vw;
 
 }
 .conImg{
 	width: 98.7vw;
-	height: 70vh;
+	height: 68vh;
 }
 .backrowDiv{
 	margin-top: 5vh;
@@ -112,7 +112,7 @@ button{
 .rowDiv{
 	z-index: 1;
 	position: absolute;
-	top: 128vh;
+	top: 126vh;
 	left: 4vw;
 	font-family: 'Karla', sans-serif;
 }
@@ -171,10 +171,12 @@ button{
 .footerIcon{
 	height: 5vh;
 	padding-right: 1vw;
+	
 }
 .IconDiv{
-	padding-left: 28vw;
+	padding-left: 23vw;
 	padding-top: 1.5vh;
+	
 }
 .copyRight{
 	background-color: #424141;
