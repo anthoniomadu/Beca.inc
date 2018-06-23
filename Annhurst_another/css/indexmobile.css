@@ -42,17 +42,18 @@ button{
 }
 .content-nav > li{
 	font-size: 16px;
+	padding-top: 1vh;
 }
 
 .nav-hr{
-	height: 4vh; 
+	height: 3.8vh; 
 	width: 0.4vw;
 	background-color: white; 
 	margin-top: 1.5vh;
 }
 .homeIconImg{
-	height: 4vh;
-	margin-top: -0.3vh;
+	height: 3.8vh;
+	margin-top: -0.7vh;
 }
 .linkActive > a{
 	color: black !important;
@@ -126,6 +127,10 @@ button{
 	list-style: none;
 	margin-bottom: 3vh;
 	font-size: 10px;
+}
+.bigContact{
+	font-size: 15px;
+	font-weight: bolder;
 }
 .linkFooter{
 	margin-right: -20vw;

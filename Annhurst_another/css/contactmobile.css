@@ -41,6 +41,7 @@ button{
 }
 .content-nav > li{
 	font-size: 16px;
+	padding-top: 1vh;
 }
 
 .nav-hr{
@@ -50,8 +51,8 @@ button{
 	margin-top: 1.5vh;
 }
 .homeIconImg{
-	height: 4vh;
-	margin-top: -0.3vh;
+	height: 3.8vh;
+	margin-top: -0.7vh;
 }
 .linkActive > a{
 	color: black !important;
