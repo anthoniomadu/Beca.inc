@@ -32,7 +32,7 @@ button{
 	margin-top: 8vh;
 	background-color: #bb3d3d !important;
 	color: white;
-	padding-left: 2vw;
+	padding-left: 1vw;
 	height: 8vh;
 	
 }
@@ -40,7 +40,7 @@ button{
 	display: none;
 }
 .content-nav > li{
-	font-size: 16px;
+	font-size: 4vw;
 	padding-top: 1vh;
 }
 

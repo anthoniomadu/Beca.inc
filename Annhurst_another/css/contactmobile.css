@@ -32,7 +32,7 @@ button{
 	margin-top: 8vh;
 	background-color: #bb3d3d !important;
 	color: white;
-	padding-left: 2vw;
+	padding-left: 1vw;
 	height: 8vh;
 	
 }
@@ -40,7 +40,7 @@ button{
 	display: none;
 }
 .content-nav > li{
-	font-size: 16px;
+	font-size: 4vw;
 	padding-top: 1vh;
 }
 
@@ -69,7 +69,7 @@ button{
 
 
 .contactDiv{
-	margin-top: 10vh;
+	margin-top: 15vh;
 	background-color: #333232;
 	width: 40vw;
 	color: white;
@@ -80,18 +80,18 @@ button{
 }
 .centerImg{
 	background-color: #333232;
-	height: 29vh;
+	height: 39vh;
 	width: 100vw;
 
 }
 .conImg{
 	width: 100vw;
-	height: 28vh;
+	height: 38vh;
 
 
 }
 .backrowDiv{
-	margin-top: 3vh;
+	margin-top: 8vh;
 	background-color: #bb3d3d ;
 	height: 5vw;
 	width: 100vw;
@@ -99,25 +99,21 @@ button{
 	z-index: auto;
 
 }
-.imgHolder{
+/*.imgHolder{
 	margin-top: 8vh;
 	position: relative;
 	z-index: auto
 	height:10vw;
 	width: 100vw;
 
-}
+}*/
 .contactImg{
 	width: 100vw;
 	height: 40vw;
 
 }
 .rowDiv{
-	z-index: 1;
-	position: relative;
-	top: -28vh;
-	left: 5vw;
-	width: 85vw;
+	margin-top: -23vh;
 	font-family: 'Karla', sans-serif;
 
 }
@@ -133,13 +129,13 @@ button{
 .textOn1{
 	margin-top: 1vh;
 	background-color:#333232;
-	opacity: 0.7; 
+	opacity: 0.9; 
 	color: white;
-	font-size: 13px;
+	font-size: 16px;
 	text-align: center;
-	height: 5vh;
+	height: 7vh;
 	border-radius: 15px;
-	width: 22vw;
+	width: 25vw;
 	padding-top: 1vh;
 	padding-bottom: 1vh;
 	margin-left: 1vw;
@@ -147,20 +143,20 @@ button{
 .textOn2{
 	margin-top: 1vh;
 	background-color:#333232;
-	opacity: 0.7; 
+	opacity: 0.9; 
 	color: white;
-	font-size: 13px;
+	font-size: 16px;
 	text-align: center;
-	height: 5vh;
+	height: 7vh;
 	border-radius: 15px;
-	width: 22vw;
+	width: 25vw;
 	float: right;
 	padding-top: 1vh;
 	padding-bottom: 1vh;
 	margin-right: 1vw;
 }
 .Footer{
-	margin-top: -16vh;
+	margin-top: 22vh;
 	background-color:  #333232;
 	color: white; 
 }

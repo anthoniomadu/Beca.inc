@@ -8,7 +8,7 @@ a{
 	color: white !important;
 }
 a:hover{
-	color: black !important;
+	color: black !important; 
 	text-decoration: none;
 } 
 button{
@@ -90,30 +90,13 @@ button{
 	width: 98.7vw;
 	height: 68vh;
 }
-.backrowDiv{
-	margin-top: 5vh;
-	background-color: #bb3d3d ;
-	height: 5vw;
-	width: 98.7vw;
-	position: relative;
-	z-index: auto;
 
-}
-.imgHolder{
-	margin-top: 10vh;
-	position: relative;
-	z-index: auto
-	height:10vh;
-	width: 98.7vw;
-}
+
 .contactImg{
 	width: 98.5vw;
 }
 .rowDiv{
-	z-index: 1;
-	position: absolute;
-	top: 126vh;
-	left: 4vw;
+	margin-top: -40vh;
 	font-family: 'Karla', sans-serif;
 }
 .rowimg1{
@@ -128,13 +111,13 @@ button{
 	margin-left: 1vw;
 	margin-top: 2vh;
 	background-color:#333232;
-	opacity: 0.7; 
+	opacity: 0.9; 
 	color: white;
-	font-size: 28px;
+	font-size: 38px;
 	text-align: center;
-	height: 7vh;
+	height: 9vh;
 	border-radius: 5px;
-	width: 12vw;
+	width: 18vw;
 	padding-top: 1vh;
 	padding-bottom: 1vh;
 }
@@ -144,18 +127,18 @@ button{
 	margin-left: 1vw;
 	margin-top: 2vh;
 	background-color:#333232;
-	opacity: 0.7; 
+	opacity: 0.9; 
 	color: white;
-	font-size: 28px;
+	font-size: 38px;
 	text-align: center;
-	height: 7vh;
+	height: 9vh;
 	border-radius: 5px;
-	width: 12vw;
+	width: 18vw;
 	padding-top: 1vh;
 	padding-bottom: 1vh;
 }
 .Footer{
-	margin-top: 0vh;
+	margin-top: 40vh;
 	background-color:  #333232;
 	color: white;
 }
@@ -183,4 +166,11 @@ button{
 	text-align: center;
 }
 
-
+/*.imgHolder{
+	margin-top: 10vh;
+	position: relative;
+	z-index: auto
+	height:10vh;
+	width: 98.7vw;
+}
+*/

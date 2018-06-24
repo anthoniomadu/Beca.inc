@@ -97,7 +97,7 @@ button{
 	z-index: auto;
 
 }
-.imgHolder{
+/*.imgHolder{
 	margin-top: 12vh;
 	position: relative;
 	z-index: auto
@@ -105,7 +105,7 @@ button{
 	width: 95.5vw;
 
 
-}
+}*/
 .contactImg{
 	width: 98vw;
 	height: 30vw;
@@ -113,11 +113,7 @@ button{
 
 }
 .rowDiv{
-	z-index: 1;
-	position: relative;
-	top: -50vh;
-	left: 5vw;
-	width: 85vw;
+	margin-top: -45vh;
 	font-family: 'Karla', sans-serif;
 
 }
@@ -130,13 +126,13 @@ button{
 	margin-right: 4vw;
 }
 .textOn1{
-	margin-top: 1vh;
+	margin-top: 8vh;
 	background-color:#333232;
-	opacity: 0.7; 
+	opacity: 0.9; 
 	color: white;
-	font-size: 17px;
+	font-size: 24px;
 	text-align: center;
-	height: 6vh;
+	height: 8vh;
 	border-radius: 15px;
 	width: 18vw;
 	padding-top: 1vh;
@@ -144,13 +140,13 @@ button{
 	margin-left: -2vw;
 }
 .textOn2{
-	margin-top: 1vh;
+	margin-top: 8vh;
 	background-color:#333232;
-	opacity: 0.7; 
+	opacity: 0.79; 
 	color: white;
-	font-size: 17px;
+	font-size: 24px;
 	text-align: center;
-	height: 6vh;
+	height: 8vh;
 	border-radius: 15px;
 	width: 18vw;
 	float: right;
@@ -159,7 +155,7 @@ button{
 	margin-right: 2vw;
 }
 .Footer{
-	margin-top: -21vh;
+	margin-top: 34vh;
 	background-color:  #333232;
 	color: white;
 }
