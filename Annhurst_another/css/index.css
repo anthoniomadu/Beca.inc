@@ -85,22 +85,26 @@ button{
 .darkHead{
 	background-color: #333232;
 	color: white;
-	font-size: 20px;
+	font-size: 22px;
 	text-align: center;
 	padding-top: 1vh;
 	padding-bottom: 1vh;
-	width: 24vw;
+	width: 26vw;
 
 }
 .lightBody{
 	background-color: #A9A9A9;
 	color: white;
 	height: 28vh;
-	font-size: 16px;
+	font-size: 20px;
 	padding-top: 1vh;
-	text-align: center;
-	width: 24vw;
-	letter-spacing: 3px;
+	width: 26vw;
+	letter-spacing: 2px;
+	padding-left: 1vw;
+	padding-right: 1vw;
+}
+.lightText{
+	width: 25vw;
 }
 .Footer{
 	margin-top: 10vh;

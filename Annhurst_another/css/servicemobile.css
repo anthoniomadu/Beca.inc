@@ -108,17 +108,23 @@ button{
 	padding-bottom: 1vh;
 	margin-left: 6vh;
 	margin-right: 6vh;
+	width: 65vw;
 
 }
 .lightBody{
 	background-color: #A9A9A9;
 	color: white;
-	height: 35vh;
+	height: 23vh;
 	font-size: 12px;
 	padding-top: 1vh;
 	margin-left: 6vh;
 	margin-right: 6vh;
-	text-align: center;
+	width: 65vw;
+	padding-right: 1vw;
+	padding-left: 1vw;
+}
+.lightText{
+	width: 25vw;
 }
 .Footer{
 	margin-top: 1vh;

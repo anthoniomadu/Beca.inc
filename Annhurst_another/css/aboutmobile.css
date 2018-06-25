@@ -110,7 +110,7 @@ button{
 .lightBody{
 	background-color: #A9A9A9;
 	color: white;
-	height: 38vh;
+	height: 26vh;
 	font-size: 12px;
 	padding-top: 1vh;
 	padding-left: 1vh;
@@ -120,11 +120,14 @@ button{
 .lightBody2{
 	background-color: #A9A9A9;
 	color: white;
-	height: 20vh;
+	height: 13vh;
 	font-size: 12px;
-	padding-left: 1vh;
+	padding-left: 2vw;
 	padding-top: 1vh;
-	padding-right: 1vh;
+	padding-right: 2vw;
+	width: 100vw;
+}
+.lightText{
 	width: 100vw;
 }
 .biggerFont{
@@ -137,6 +140,7 @@ button{
 	margin-top: 4vh;
 	background-color:  #333232;
 	color: white; 
+	width: 100vw;
 }
 .smallFooter{
 	background-color:#bb3d3d ;

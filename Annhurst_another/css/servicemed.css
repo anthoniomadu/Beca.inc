@@ -96,7 +96,7 @@ button{
 }
 
 .EachRow{
-	margin-bottom: 10vh;
+	margin-bottom: 8vh;
 }
 .darkHead{
 	background-color: #333232;
@@ -107,20 +107,26 @@ button{
 	padding-bottom: 1vh;
 	margin-left: 25vh;
 	margin-right: 20vh;
+	width: 40vw;
 
 }
 .lightBody{
 	background-color: #A9A9A9;
 	color: white;
-	height: 44vh;
+	height: 28vh;
 	font-size: 15px;
 	padding-top: 1vh;
 	margin-left: 25vh;
 	margin-right: 20vh;
-	text-align: center;
+	width: 40vw;
+	padding-left: 1vw;
+	padding-right: 1vw;
+}
+.lightText{
+	width: 25vw;
 }
 .Footer{
-	margin-top: 10vh;
+	margin-top: 3vh;
 	background-color:  #333232;
 	color: white; 
 }

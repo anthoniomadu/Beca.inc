@@ -109,28 +109,31 @@ button{
 .lightBody{
 	background-color: #A9A9A9;
 	color: white;
-	height: 38vh;
+	height: 34vh;
 	font-size: 18px;
 	padding-top: 1vh;
-	padding-left: 1vh;
-	padding-right: 1vh;
+	padding-left: 2vw;
+	padding-right: 2vw;
 	width: 95.5vw;
 }
 .lightBody2{
 	background-color: #A9A9A9;
 	color: white;
-	height: 20vh;
+	height: 15vh;
 	font-size: 18px;
-	padding-left: 1vh;
+	padding-left: 2vw;
 	padding-top: 1vh;
-	padding-right: 1vh;
+	padding-right: 2vw;
+	width: 95.5vw;
+}
+.lightText{
 	width: 95.5vw;
 }
 .biggerFont{
-	font-size: 18px;
+	font-size: 20px;
 }
 .row1{
-	margin-bottom: 20vh;
+	margin-bottom: 15vh;
 }
 .Footer{
 	margin-top: 13vh;

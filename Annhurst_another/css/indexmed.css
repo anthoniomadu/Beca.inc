@@ -90,6 +90,7 @@ display: none;
 	margin-left: 15vw;
 	margin-bottom: 5vh;
 	width: 50vw;
+	margin-right: 15vw;
 }
 .darkHead{
 	background-color: #333232;
@@ -98,15 +99,21 @@ display: none;
 	text-align: center;
 	padding-top: 1vh;
 	padding-bottom: 1vh;
+	width: 45vw;
 
 }
 .lightBody{
 	background-color: #A9A9A9;
 	color: white;
-	height: 29vh;
-	font-size: 20px;
+	height: 25vh;
+	font-size: 17px;
 	padding-top: 1vh;
-	text-align: center;
+	width: 45vw;
+	padding-left: 1vw;
+	padding-right: 1vw;
+}
+.lightText{
+	width: 45vw;
 }
 .Footer{
 	margin-top: 5vh;
